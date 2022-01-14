@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Undo is COMMAND or CONTROL Z -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+
+<script src="https://kit.fontawesome.com/3779f75790.js" crossorigin="anonymous"></script>
+
+<style>
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-android {
+  background: #2fd780;
+  color: white;
+}
+
+.fa-amazon {
+  background: #ff9901;
+  color: white;
+}
+
+.fa-behance {
+  background: #1566f7;
+  color: white;
+}
+
+.fa-deviantart {
+  background: #05ca3a;
+  color: white;
+}
+
+.fa-digg {
+  background: #000000;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-dropbox {
+  background: #035ef7;
+  color: white;
+}
+
+.fa-envelope-square {
+  background: #000000;
+  color: white;
+}
+
+.fa-etsy {
+  background: #f45802;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-google {
+  background: #ec4134;
+  color: white;
+}
+
+.fa-google-plus {
+  background: #ec4134;
+  color: white;
+}
+
+.fa-houzz {
+  background: #4ab715;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-meetup {
+  background: #e61b3f;
+  color: white;
+}
+
+.fa-mobile-phone {
+  background: #000000;
+  color: white;
+}
+
+.fa-paypal {
+  background: #002e82;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-podcast {
+  background: #000000;
+  color: white;
+}
+
+.fa-quora {
+  background: #b42b26;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss-square {
+  background: #ef8022;
+  color: white;
+}
+
+.fa-sitemap {
+  background: #999333;
+  color: white;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-slack {
+  background: #481549;
+  color: white;
+}
+
+.fa-slideshare {
+  background: #00a3a5;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #f6f500;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-soundcloud {
+  background: #f85200;
+  color: white;
+}
+
+.fa-spotify {
+  background: #1cd05d;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-ticket {
+  background: #f88100;
+  color: white;
+}
+
+.fa-trello {
+  background: #037ac2;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-whatsapp {
+  background: #15b51b;
+  color: white;
+} 
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+} 
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+} 
+
+</style>
+</head>
+<body>
+
+<!-- Add icons A B C D E F G H I J K L M N P Q R S T U V W X Y Z -->
+<!-- ACUITY -->
+<a href="#" class="fa fa-android"></a>
+<a href="#" class="fa fa-amazon"></a>
+<a href="#" class="fa fa-behance"></a>
+<!-- BLOGGER -->
+<a href="#" class="fa fa-deviantart"></a>
+<a href="#" class="fa fa-digg"></a>
+<a href="#" class="fa fa-dribbble"></a>
+<a href="#" class="fa fa-dropbox"></a>
+<!-- EBAY -->
+<a href="#" class="fa fa-envelope-square"></a>
+<a href="#" class="fa fa-etsy"></a>
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-flickr"></a>
+<a href="#" class="fa fa-foursquare"></a>
+<!-- GOOD READS -->
+<a href="#" class="fa fa-google"></a>
+<!-- GOOGLE DRIVE -->
+<!-- GOOGLE CALENDAR -->
+<!-- GOOGLE MEET -->
+<!-- GOOGLE MY BUSINESSS -->
+<a href="#" class="fa fa-google-plus"></a>
+<a href="#" class="fa fa-houzz"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<!-- MAESTRO CONFERENCE -->
+<a href="#" class="fa fa-meetup"></a>
+<a href="#" class="fa fa-mobile-phone"></a>
+<a href="#" class="fa fa-paypal"></a>
+<a href="#" class="fa fa-pinterest"></a>
+<a href="#" class="fa fa-podcast"></a>
+<a href="#" class="fa fa-quora"></a>
+<a href="#" class="fa fa-reddit"></a>
+<a href="#" class="fa fa-rss-square"></a>
+<!-- SHOPLOOK -->
+<a href="#" class="fa fa-sitemap"></a>
+<a href="#" class="fa fa-skype"></a>
+<a href="#" class="fa fa-slack"></a>
+<a href="#" class="fa fa-slideshare"></a>
+<a href="#" class="fa fa-snapchat-ghost"></a>
+<a href="#" class="fa fa-soundcloud"></a>
+<a href="#" class="fa fa-spotify"></a>
+<a href="#" class="fa fa-stumbleupon"></a>
+<a href="#" class="fa fa-ticket"></a>
+<!-- TIKTOK -->
+<a href="#" class="fa fa-trello"></a>
+<a href="#" class="fa fa-tumblr"></a>
+<a href="#" class="fa fa-twitter"></a>
+<!-- VENMO -->
+<a href="#" class="fa fa-vimeo"></a> 
+<a href="#" class="fa fa-vine"></a>
+<!-- WATTPAD -->
+<a href="#" class="fa fa-whatsapp"></a>
+<a href="#" class="fa fa-yahoo"></a>
+<a href="#" class="fa fa-youtube"></a>
+<!-- ZOOM -->
+   
+</body>
+</html> 
